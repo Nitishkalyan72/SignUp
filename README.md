@@ -4,12 +4,9 @@
 The **SignUp** repository is a Java-based project that provides features for:
 1. User Login
 2. New User Registration
-
-This document provides step-by-step instructions to pull and set up the project from GitHub.
-
 ---
 
-## Instructions to Pull the Project from GitHub
+## Instructions 
 
 ### Step 1: Clone the Repository
 Use the following command to clone the repository:
